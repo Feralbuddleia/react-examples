@@ -1,0 +1,15 @@
+.CreateTodo {
+  width: 600px;
+  margin: 20px auto;
+}
+
+.CreateTodo-input {
+  width: 400px;
+  height: 40px;
+  font-size: 20px;
+}
+.CreateTodo-button {
+  width: 100px;
+  height: 46px;
+  font-size: 20px;
+}
